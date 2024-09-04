@@ -5,7 +5,7 @@ Emulating Wikipedia on a small scale with multiple entries that are written in M
 # Viewing Entries
 Ability to traverse through all the entires from the home page 
 
-#Converting MArkdown to HTML
+# Converting MArkdown to HTML
 Contains of function to convert markdown to html in order to display it on the webpage
 
 # Create new entries
