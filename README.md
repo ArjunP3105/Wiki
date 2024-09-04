@@ -17,5 +17,5 @@ Has the ability to edit the contents of existing entries via a Edit Page
 # Search feature
 Provides a search bar that allows searching of entries and provides related searches if searched through strings(ex py shows related search of python)
 
-#Random
+# Random
 Clicking on Random will randomly select one of the entires out of all the entries and display the page
